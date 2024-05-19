@@ -1,0 +1,9 @@
+setup.py
+QAWITHPDF/__init__.py
+QAWITHPDF/data_ingestion.py
+QAWITHPDF/embedding.py
+QAWITHPDF/model_api.py
+QApplication.egg-info/PKG-INFO
+QApplication.egg-info/SOURCES.txt
+QApplication.egg-info/dependency_links.txt
+QApplication.egg-info/top_level.txt
